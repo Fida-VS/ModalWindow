@@ -47,7 +47,8 @@ body {
 .modal img {
     width: 80vw;
     height: auto;
-    
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 h1 {
