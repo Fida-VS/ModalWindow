@@ -45,9 +45,9 @@ body {
 }
 
 .modal img {
-    width: 280px;
-    height: 220px;
-    margin: 0 auto;
+    width: 80vw;
+    height: auto;
+    
 }
 
 h1 {
